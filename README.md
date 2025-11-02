@@ -13,7 +13,7 @@ Each project focuses on a distinct dataset and analytical challenge to showcase 
 | Cluster Manager | YARN / Spark Standalone |
 | Data Storage | HDFS / JSON / CSV / API Integration |
 | Libraries | pyspark.sql, pyspark.streaming, graphframes |
-| Language | Python 3.x |
+| Language | Python 3 |
 | APIs Used | SpaceX Launch API, CryptoCompare Bitcoin API |
 
 ---
