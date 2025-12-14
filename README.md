@@ -22,8 +22,8 @@ Each project focuses on a distinct dataset and analytical challenge to showcase 
 
 | Project | Description |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [Spark-RDD-LifeExpectancy](./Spark-RDD-LifeExpectancy) | Analyzed Life Expectancy dataset using **RDD transformations** and **actions** to calculate missing values and aggregate mortality rates via `reduceByKey()`. |
-| [Spark-RDD-MovieAnalytics](./Spark-RDD-MovieAnalytics) | Implemented **RDD joins** and aggregation logic to compute movie revenues and ratings grouped by production and rating agencies. |
+| [Spark-RDD-LifeExpectancy](./Spark_RDD_LifeExpectancy/Spark_RDD_LifeExpectancy.ipynb) | Analyzed Life Expectancy dataset using **RDD transformations** and **actions** to calculate missing values and aggregate mortality rates via `reduceByKey()`. |
+| [Spark-SQL-MovieAnalytics](./Spark_SQL_MovieAnalytics/Spark_SQL_MovieAnalytics.ipynb) | Implemented **SQL joins** and aggregation logic to compute movie revenues and ratings grouped by production and rating agencies. |
 | [Spark-HiveContext-SpaceX](./Spark-HiveContext-SpaceX) | Retrieved **SpaceX API** data, filtered successful launches, and queried results using **HiveContext SQL**. |
 | [Spark-HiveContext-BitcoinPrice](./Spark-HiveContext-BitcoinPrice) | Pulled **Bitcoin price data** from CryptoCompare API, transformed JSON, and computed average closing price using Hive SQL. |
 | [Spark-Streaming-DeptBudget](./Spark-Streaming-DeptBudget) | Built a **real-time data ingestion pipeline** for department budgets using Spark Structured Streaming. |
