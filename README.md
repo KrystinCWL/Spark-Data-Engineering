@@ -44,8 +44,8 @@ Each project focuses on a distinct dataset and analytical challenge to showcase 
 ## ⚙️ Installation
 
 ```
-git clone https://github.com/KrystinCWL/Spark-Data-Engineering-Projects.git
-cd Spark-Data-Engineering-Projects
+git clone https://github.com/KrystinCWL/Spark-Data-Engineering.git
+cd Spark-Data-Engineering
 pip install -r requirements.txt
 ```
 
