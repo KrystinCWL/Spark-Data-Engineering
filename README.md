@@ -22,12 +22,12 @@ Each project focuses on a distinct dataset and analytical challenge to showcase 
 
 | Project | Description |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [RDD - Life Expectancy](./Spark20%RDD20%LifeExpectancy/Spark20%RDD20%LifeExpectancy.ipynb) | Analyzed Life Expectancy dataset using **RDD transformations** and **actions** to calculate missing values and aggregate mortality rates via `reduceByKey()`. |
-| [SQL - Movie Analytics](./Spark20%SQL20%MovieAnalytics/Spark20%SQL20%MovieAnalytics.ipynb) | Implemented **SQL joins** and aggregation logic to compute movie revenues and ratings grouped by production and rating agencies. |
-| [Hive Context - SpaceX](./Spark20%HiveContext20%SpaceX.ipynb) | Retrieved **SpaceX API** data, filtered successful launches, and queried results using **HiveContext SQL**. |
-| [Hive Context - Bitcoin Price](./Spark20%HiveContext20%BitcoinPrice) | Pulled **Bitcoin price data** from CryptoCompare API, transformed JSON, and computed average closing price using Hive SQL. |
-| [Streaming - Dept Budget](./Spark20%Streaming20%DeptBudget/Spark20%Streaming20%DeptBudget.ipynb) | Built a **real-time data ingestion pipeline** for department budgets using Spark Structured Streaming. |
-| [Graph Frames - Bank Network](./Spark20%GraphFrames20%BankNetwork) | Modeled a **bank relationship graph** of branch heads and customers, applied **PageRank**, and analyzed degrees and triangle counts. |
+| [RDD - Life Expectancy](./Spark%20RDD%20LifeExpectancy/Spark%20RDD%20LifeExpectancy.ipynb) | Analyzed Life Expectancy dataset using **RDD transformations** and **actions** to calculate missing values and aggregate mortality rates via `reduceByKey()`. |
+| [SQL - Movie Analytics](./Spark%20SQL%20MovieAnalytics/Spark%20SQL%20MovieAnalytics.ipynb) | Implemented **SQL joins** and aggregation logic to compute movie revenues and ratings grouped by production and rating agencies. |
+| [Hive Context - SpaceX](./Spark%20HiveContext%20SpaceX.ipynb) | Retrieved **SpaceX API** data, filtered successful launches, and queried results using **HiveContext SQL**. |
+| [Hive Context - Bitcoin Price](./Spark%20HiveContext%20BitcoinPrice) | Pulled **Bitcoin price data** from CryptoCompare API, transformed JSON, and computed average closing price using Hive SQL. |
+| [Streaming - Dept Budget](./Spark%20Streaming%20DeptBudget/Spark%20Streaming%20DeptBudget.ipynb) | Built a **real-time data ingestion pipeline** for department budgets using Spark Structured Streaming. |
+| [Graph Frames - Bank Network](./Spark%20GraphFrames%20BankNetwork) | Modeled a **bank relationship graph** of branch heads and customers, applied **PageRank**, and analyzed degrees and triangle counts. |
 
 ---
 
