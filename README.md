@@ -16,6 +16,9 @@ Each project focuses on a distinct dataset and analytical challenge to showcase 
 | Language | Python 3 |
 | APIs Used | SpaceX Launch API, CryptoCompare Bitcoin API |
 
+- SpaceX Launch Data API: https://api.spacexdata.com/v5/launches  
+- CryptoCompare Bitcoin Data API: https://data-api.cryptocompare.com/index/cc/v1/historical/days?market=cadli&instrument=BTC-USD&limit=365&aggregate=1&fill=true&apply_mapping=true&response_format=JSON
+
 ---
 
 ## 📂 Project Structure
@@ -57,12 +60,6 @@ To run the notebooks, you need to set up the environment by cloning the reposito
 
 ---
 
-## 🔗 Online API Links
-
-- SpaceX Launch Data API: https://api.spacexdata.com/v5/launches  
-- Bitcoin Data API: https://data-api.cryptocompare.com/index/cc/v1/historical/days?market=cadli&instrument=BTC-USD&limit=365&aggregate=1&fill=true&apply_mapping=true&response_format=JSON
-
----
 ## 🧪 How to Run
 
 This repository is organized into distinct subprojects, each focusing on a specific Apache Spark module (RDD, SQL, Hive, Streaming, GraphFrames). Ensure you have the following installed:
